@@ -1,1 +1,1 @@
-# intersellar-mermaid
+# interstellar-mermaid
